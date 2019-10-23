@@ -1,0 +1,14 @@
+.etchaSketchContainer {
+  display: grid;
+  width: 50vw;
+  height: 50vw;
+
+}
+.etchaSketchItem {
+  border: 1px solid #000;
+  text-align: center;
+}
+
+.darkened {
+  background-color: #000;
+}
